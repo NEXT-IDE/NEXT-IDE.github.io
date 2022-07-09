@@ -1,1 +1,2 @@
 Redirect 301 / https://sites.google.com/view/nextide/
+RedirectMatch 301 ^/download /blog/about.html
